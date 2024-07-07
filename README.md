@@ -2,7 +2,7 @@
 # Instagram OSINT Tool
 
 A graphical interface tool for performing Open Source Intelligence (OSINT) on Instagram profiles.
-
+Also Called As Instagram Scrapper
 ## Features
 
 - Extract user profile information
