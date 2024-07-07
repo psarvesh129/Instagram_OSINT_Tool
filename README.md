@@ -19,7 +19,7 @@ A graphical interface tool for performing Open Source Intelligence (OSINT) on In
   - Post insights and analytics
   - Get Tagger Username
   - Etc
-  - 
+    
 - **Technologies Used**:
   - **Programming Language**: Python
   - **Libraries**: Instaloader, Tkinter, Tabulate
