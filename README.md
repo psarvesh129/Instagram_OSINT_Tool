@@ -9,9 +9,8 @@ A graphical interface tool for performing Open Source Intelligence (OSINT) on In
 - Analyze followers and following lists
 - Download posts and media
 
-- 
 - **Project Goal**: Develop an advanced tool for gathering information from Instagram using the Instaloader library and a GUI built with Tkinter.
-- 
+
 - **Key Features**:
   - Login and session management
   - Profile data extraction
@@ -33,11 +32,11 @@ A graphical interface tool for performing Open Source Intelligence (OSINT) on In
    git clone https://github.com/your-username/Instagram-OSINT-Tool.git
    cd Instagram-OSINT-Tool
    python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+   source venv/bin/activate
+   pip install -r requirements.txt
 
 - **Commands for Running the Project**:
-- 
+  
   ```bash
   
   sudo apt update
@@ -46,9 +45,3 @@ pip install -r requirements.txt
   sudo apt install proxychains
   sudo nano /etc/proxychains.conf
   sudo proxychains python3 main.py
-
-
-
-
-
-
