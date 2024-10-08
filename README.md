@@ -8,7 +8,7 @@ Also Called As Instagram Scrapper
 - Extract user profile information
 - Analyze followers and following lists
 - Download posts and media
-
+(osint_tool.png)
 - **Project Goal**: Develop an advanced tool for gathering information from Instagram using the Instaloader library and a GUI built with Tkinter.
 
 - **Key Features**:
